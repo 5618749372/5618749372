@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... EMPRESAS
 - 📫 How to reach me ... IG: luzz_rodea
 - 😄 Pronouns: ... Luz
-- ⚡ Fun fact: ... playgames
+- ⚡ Fun fact: ... playgames and soccer
 
 <!---
 5618749372/5618749372 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
