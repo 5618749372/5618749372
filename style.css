@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.entrada {
+    margin-bottom: 20px;
+}
+
+.entrada label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.entrada input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.resultados {
+    margin-bottom: 20px;
+}
+
+.resultados p {
+    margin-bottom: 5px;
+}
+
+.titulo {
+    font-weight: bold;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
